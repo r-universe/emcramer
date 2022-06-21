@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CHOIRBM"]
+	path = CHOIRBM
+	url = https://github.com/emcramer/choirbm
+	shallow = true
+	registered = true
